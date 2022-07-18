@@ -132,6 +132,10 @@ Il risultato ottenuto non ha soddisfatto le nostre aspettative. Infatti la curva
 Similmente otteniamo lo stesso risultato se partiamo da un nucleotide e guardiamo l'influenza su sequenze successive (Forward) o precedenti (Reverse). Fino a sequenze di lunghezza 3 o 5 ci possiamo fidare dei risultati e poi le sequenze diventano troppo grandi. Il pericolo e' che magari certe sequenze non le vediamo mai e a loro viene assegnata probabilita' di sbagliare di 0 quando in verita' non lo sono.
 (chiedere dettagli per spiegare meglio questa parte)
 
+la terza domanda che abbiamo analizzato riguarda calcolare l;entropia dell'errore a partire da sequenze che partono da un nucleotide e poi vanno in una direzione (verso destra o verso sinistra) (inserire disegno --------------------> oppure <-------------------)
+Inserire grafici\
+In questo caso si vede meglio la curva esponenziale che avevamo ipotizzato di ottenere. Abbiamo distinto tra Reverse e Forward e abbiamo notato come le due curve siano differenti.E' piu' informativo il nucleotide dopo il nucleotide di riferimento rispetto a quello prima, come confermato dal grafico ottenuto nella prima parte di questo ultimo esercizio.
+
 
 
 
